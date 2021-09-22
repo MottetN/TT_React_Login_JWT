@@ -49,7 +49,7 @@ export default function Header() {
           </li>
           <li>
             <NavLink
-              to="/"
+              to="/analystics"
               className="link_name"
               activeClassName="is-active"
               exact={true}
@@ -59,7 +59,7 @@ export default function Header() {
           </li>
           <li>
             <NavLink
-              to="/"
+              to="/fileManager"
               className="link_name"
               activeClassName="is-active"
               exact={true}
@@ -69,7 +69,7 @@ export default function Header() {
           </li>
           <li>
             <NavLink
-              to="/"
+              to="/order"
               className="link_name"
               activeClassName="is-active"
               exact={true}
@@ -79,7 +79,7 @@ export default function Header() {
           </li>
           <li>
             <NavLink
-              to="/"
+              to="/setting"
               className="link_name"
               activeClassName="is-active"
               exact={true}
