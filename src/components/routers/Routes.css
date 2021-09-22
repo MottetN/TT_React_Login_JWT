@@ -1,0 +1,7 @@
+.home_content {
+  position: absolute;
+  height: 100%;
+  width: calc(100%-240px);
+  left: 240px;
+  padding: 10px;
+}
