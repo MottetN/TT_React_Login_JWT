@@ -14,7 +14,7 @@ export default function Header() {
         </div>
         <ul className="nav_list">
           <li>
-            <i classname="bx bx-search"></i>
+            <i class="bx bx-search"></i>
             <input type="search" placeholder="Search" />
           </li>
           <li>
@@ -24,7 +24,7 @@ export default function Header() {
               activeClassName="is-active"
               exact={true}
             >
-              <i classname="bx bx-grid-alt"></i> Dashboard
+              <i class="bx bx-grid-alt"></i> Dashboard
             </NavLink>
           </li>
           <li>
@@ -34,7 +34,7 @@ export default function Header() {
               activeClassName="is-active"
               exact={true}
             >
-              <i classname="bx bx-user"></i> User
+              <i class="bx bx-user"></i> User
             </NavLink>
           </li>
           <li>
@@ -44,7 +44,7 @@ export default function Header() {
               activeClassName="is-active"
               exact={true}
             >
-              <i classname="bx bx-chat"></i> Messages
+              <i class="bx bx-chat"></i> Messages
             </NavLink>
           </li>
           <li>
@@ -54,7 +54,7 @@ export default function Header() {
               activeClassName="is-active"
               exact={true}
             >
-              <i classname="bx bx-pie-chart-alt-2"></i> Analystics
+              <i class="bx bx-pie-chart-alt-2"></i> Analystics
             </NavLink>
           </li>
           <li>
@@ -64,7 +64,7 @@ export default function Header() {
               activeClassName="is-active"
               exact={true}
             >
-              <i classname="bx bx-folder"></i> File Manager
+              <i class="bx bx-folder"></i> File Manager
             </NavLink>
           </li>
           <li>
@@ -74,7 +74,7 @@ export default function Header() {
               activeClassName="is-active"
               exact={true}
             >
-              <i classname="bx bx-cart-alt"></i> Order
+              <i class="bx bx-cart-alt"></i> Order
             </NavLink>
           </li>
           <li>
@@ -84,7 +84,7 @@ export default function Header() {
               activeClassName="is-active"
               exact={true}
             >
-              <i classname="bx bx-cog"></i> Setting
+              <i class="bx bx-cog"></i> Setting
             </NavLink>
           </li>
         </ul>
@@ -100,7 +100,7 @@ export default function Header() {
                 <div className="job">Informaticien</div>
               </div>
             </div>
-            <i className="bx bx-log-out" id="log_out"></i>
+            <i class="bx bx-log-out" id="log_out"></i>
           </div>
         </div>
       </nav>

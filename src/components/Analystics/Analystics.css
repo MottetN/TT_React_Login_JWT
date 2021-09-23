@@ -1,0 +1,76 @@
+.Analystics {
+  width: 100%;
+}
+
+.tab_0 {
+  width: 100%;
+  border-bottom: 1px solid #11101d;
+}
+
+.link_tab_WebSite {
+  text-decoration: none;
+}
+
+.row_0 {
+  width: 100%;
+  padding: 10px 20px;
+  display: flex;
+  justify-content: space-between;
+  background: #1d1b31;
+  color: white;
+}
+
+.tab-header {
+  width: 100%;
+  padding: 10px 20px;
+  display: flex;
+  justify-content: space-between;
+  background: #11101d;
+  color: white;
+  font-weight: bolder;
+}
+
+.row_0:hover {
+  background-color: white;
+  border-left: 1px solid #11101d;
+  border-right: 1px solid #11101d;
+  color: #11101d;
+  cursor: pointer;
+}
+
+.cell_0 {
+  width: 40%;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.cell_1 {
+  width: 20%;
+  display: flex;
+  justify-content: center;
+}
+
+.ct_btn_add {
+  margin-top: 10px;
+}
+
+.btn_m {
+  padding: 10px 20px;
+  width: 100px;
+  text-align: center;
+  color: white;
+  cursor: pointer;
+  background-color: #11101d;
+}
+
+.btn_m:hover {
+  cursor: pointer;
+  color: #11101d;
+  border: 1px solid #11101d;
+  background-color: white;
+}
+
+.btn_style:hover {
+  background-color: gray;
+  cursor: pointer;
+}
